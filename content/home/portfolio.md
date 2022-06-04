@@ -28,12 +28,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: Anesthesiology
+      tag: AN
+    - name: Critical Care Medicine
+      tag: CCM
+    - name: Medical Informatics
+      tag: MI
 
 design:
   columns: '1'
