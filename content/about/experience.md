@@ -46,6 +46,18 @@ experience:
         
         * Anesthesiology consultant
         * Critical care medicine consultant
+    
+  - title: Intensivist - consultant
+    company: CHEDV - Hospital de S. Sebastião
+    company_url: ''
+    company_logo: org-x
+    location: Santa Maria da Feira, Portugal
+    date_start: '2016-06-01'
+    date_end: '2021-09-01'
+    description: |2-
+        Responsibilities include:
+        
+        * Critical care medicine consultant
 
 design:
   columns: '1'
