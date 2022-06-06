@@ -47,7 +47,7 @@ experience:
         * Anesthesiology consultant
         * Critical care medicine consultant
     
-  - title: Intensivist - consultant
+  - title: Intensivist
     company: CHEDV - Hospital de S. Sebastião
     company_url: ''
     company_logo: org-x
@@ -57,7 +57,19 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Critical care medicine consultant
+        * Critical care medicine
+        
+  - title: Anesthesiologist
+    company: ULSAM - Hospital Pedro Hispano
+    company_url: ''
+    company_logo: org-x
+    location: Matosinhos, Portugal
+    date_start: '2008-09-01'
+    date_end: '2010-07-01'
+    description: |2-
+        Responsibilities include:
+        
+        * Anesthesiolgy
 
 design:
   columns: '1'

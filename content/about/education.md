@@ -29,8 +29,7 @@ experience:
     location: Porto
     date_start: '1993-09-01'
     date_end: '1999-07-01'
-    description: |2-
-        * University degree - human medicine
+    description: University degree - human medicine
 
   - title: Anesthesiology intership
     company: ULS Matosinhos - Hospital Pedro Hispano
@@ -40,6 +39,15 @@ experience:
     date_start: '2002-01-01'
     date_end: '2008-08-31'
     description: Residency in anesthesiology
+    
+  - title: Critical care medicine internship
+    company: CHTMAD - Hospital de S. Pedro
+    company_url: ''
+    company_logo: org-x
+    location: Vila Real
+    date_start: '2013-11-01'
+    date_end: '2016-09-01'
+    description: Residency in critical care medicine
 
 design:
   columns: '1'
