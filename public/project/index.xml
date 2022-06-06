@@ -13,14 +13,6 @@
     </image>
     
     <item>
-      <title>Cartoon Face Generator</title>
-      <link>https://example.com/project/cartoon/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/cartoon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Cosmetics Semantic Search</title>
       <link>https://example.com/project/cosmetics/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
@@ -33,6 +25,14 @@
       <link>https://example.com/project/recommendation/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/recommendation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Medicina on-line</title>
+      <link>https://example.com/project/livro_medicina_online/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/livro_medicina_online/</guid>
       <description></description>
     </item>
     
