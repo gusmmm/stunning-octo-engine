@@ -25,7 +25,7 @@ experience:
   - title: Anesthesiologist - consultant
     company: ULSAM - Hospital de Sta. Luzia
     company_url: 'https://www.ulsam.min-saude.pt/category/servicos/cuidados-de-saude-hospitalares/'
-    company_logo: org-gc
+    company_logo: ulsam
     location: Viana do Castelo, Portugal
     date_start: '2018-09-01'
     date_end: ''
@@ -36,8 +36,8 @@ experience:
 
   - title: Intensivist - consultant
     company: CHTMAD - Hospital de S. Pedro
-    company_url: ''
-    company_logo: org-x
+    company_url: 'https://www.chtmad.min-saude.pt/'
+    company_logo: chtmad
     location: Vila Real, Portugal
     date_start: '2013-07-01'
     date_end: ''
@@ -60,7 +60,7 @@ experience:
         * Critical care medicine
         
   - title: Anesthesiologist
-    company: ULSAM - Hospital Pedro Hispano
+    company: ULSM - Hospital Pedro Hispano
     company_url: ''
     company_logo: org-x
     location: Matosinhos, Portugal
