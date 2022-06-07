@@ -17,13 +17,29 @@ content:
   autolink: true
 
   # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+  # form:
+  #   provider: netlify
+  #   formspree:
+  #     id:
+  #   netlify:
+  #     # Enable CAPTCHA challenge to reduce spam?
+  #     captcha: false
+  
+  email: josegustavomartins@tutanota.com
+  address:
+    city: Matosinhos
+    region: Porto
+    postcode: '4450'
+    country: Portugal
+    country_code: PT
+  coordinates:
+    latitude: '41.18'
+    longitude: '-8.68'
+  contact_links:
+    - icon: video
+      icon_pack: fas
+      name: Zoom Me
+      link: 'https://zoom.com'
 
 design:
   columns: '1'

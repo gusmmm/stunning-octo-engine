@@ -5,7 +5,7 @@
     <link>https://example.com/</link>
       <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <description>José Gustavo Montanha Meireles Martins</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>José Gustavo Montanha Meireles Martins</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Cosmetics Semantic Search</title>
-      <link>https://example.com/project/cosmetics/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/cosmetics/</guid>
+      <title>Medical Informatics and Digital Health Multilingual Ontology (MIMO) - a tool to improve international collaborations</title>
+      <link>https://example.com/project/hetop/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/hetop/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Recommendation Systems</title>
-      <link>https://example.com/project/recommendation/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/recommendation/</guid>
+      <title>Anesthesiologist / intensivist in Sweden</title>
+      <link>https://example.com/project/suecia/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/suecia/</guid>
       <description></description>
     </item>
     
