@@ -25,7 +25,7 @@ content:
   #     # Enable CAPTCHA challenge to reduce spam?
   #     captcha: false
   
-  email: josegustavomartins@tutanota.com
+  email: gustavo@josegustavomartins.eu 
   address:
     city: Matosinhos
     region: Porto
