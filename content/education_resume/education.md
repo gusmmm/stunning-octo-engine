@@ -48,6 +48,24 @@ experience:
     date_start: '2013-11-01'
     date_end: '2016-09-01'
     description: Residency in critical care medicine
+    
+  - title: Basic Life Support
+    company: CPR - ERC
+    company_url: https://drive.google.com/file/d/0B3No-ALLmCW5UEtxZ0ZUU0duUDA/view?usp=sharing&resourcekey=0-tUpfFlNzfGa4QcYs8q472A
+    company_logo: org-x
+    location: Matosinhos
+    date_start: '2002-02-22'
+    date_end: ''
+    description: Course - European Resuscitation Council
+    
+  - title: Advanced Life Support
+    company: Salvas Vidas - ERC
+    company_url: https://drive.google.com/file/d/0B3No-ALLmCW5ZlNfUnE4OHkxZWM/view?usp=sharing&resourcekey=0-evEuL6taIDYqlDEUk5Hy1A
+    company_logo: org-x
+    location: Matosinhos
+    date_start: '2005-12-16'
+    date_end: '2005-12-17'
+    description: Course - European Resuscitation Council
 
 design:
   columns: '1'
