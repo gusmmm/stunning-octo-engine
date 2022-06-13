@@ -67,3 +67,5 @@ social:
 I am based in Porto, Portugal. I am a freelancer MD in anesthesiology and critical care medicine, currently working in ULSAM - Viana do Castelo, CHTMAD - Vila Real, and at private group Trofa Saúde.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+
+Check out my [complete education curriculum](/education_resume/).
